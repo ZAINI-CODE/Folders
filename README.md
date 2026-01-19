@@ -326,7 +326,7 @@ python3 --version
 ### Key Concepts by Practical:
 
 | Practical | Key Concepts | Status |
-|-----------|-------------|--------|
+| --------- | ----------- | ------ |
 | Practical 1 | Variables, Data Types, Operators, Type Conversion | ✅ Complete |
 | Practical 2 | Lists, List Methods, Nested Lists, List Comprehension | ✅ Complete |
 | Practical 3 | Dictionaries, Nested Dictionaries, Dictionary Methods | ✅ Complete |

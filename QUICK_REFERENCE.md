@@ -421,7 +421,7 @@ sum(numbers)                   # Sum of numbers
 min(numbers)                   # Minimum
 max(numbers)                   # Maximum
 abs(number)                    # Absolute value
-round(number, digits)          # Round number
+round(number, digits)          # Round number (digits optional, defaults to 0)
 ```
 
 ---

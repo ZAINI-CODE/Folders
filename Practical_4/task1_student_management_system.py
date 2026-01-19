@@ -24,7 +24,11 @@ def add_student():
         return
     
     name = input("Enter student name: ")
-    age = int(input("Enter student age: "))
+    try:
+        age = int(input("Enter student age: "))
+    except ValueError:
+        print("Invalid age! Please enter a number.")
+        return
     grade = input("Enter student grade: ")
     
     # Add student to dictionary
@@ -44,7 +48,11 @@ def update_marks():
         return
     
     subject = input("Enter subject name: ")
-    marks = float(input("Enter marks: "))
+    try:
+        marks = float(input("Enter marks: "))
+    except ValueError:
+        print("Invalid marks! Please enter a number.")
+        return
     
     # Add or update marks for the subject
     if "marks" not in students[student_id]:
