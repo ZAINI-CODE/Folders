@@ -8,8 +8,12 @@ This repository contains Python programming practicals covering fundamental to a
 2. [Practical 2: Implementing Data Structures List and Set](#practical-2)
 3. [Practical 3: Dictionaries and Tuples in Python](#practical-3)
 4. [Practical 4: Functions and Modules in Python](#practical-4)
-5. [How to Run](#how-to-run)
-6. [Requirements](#requirements)
+5. [Practical 5: File Handling in Python](#practical-5)
+6. [Practical 6: Object-Oriented Programming in Python](#practical-6)
+7. [Practical 7: Exception Handling and Modules](#practical-7)
+8. [Practical 8: Advanced Python Concepts](#practical-8)
+9. [How to Run](#how-to-run)
+10. [Requirements](#requirements)
 
 ---
 
@@ -184,6 +188,81 @@ A complete menu-driven application demonstrating:
 
 ---
 
+## Practical 5: File Handling in Python
+
+**Location:** `Practical_5/`
+
+This practical covers file operations in Python.
+
+### Topics:
+- Opening and closing files
+- Reading from files
+- Writing to files
+- File modes (read, write, append)
+- Working with CSV files
+- Exception handling for file operations
+
+**Status:** Documentation available. Code examples coming soon.
+
+---
+
+## Practical 6: Object-Oriented Programming in Python
+
+**Location:** `Practical_6/`
+
+This practical introduces OOP concepts in Python.
+
+### Topics:
+- Classes and objects
+- Constructors (`__init__`)
+- Instance variables and methods
+- Class variables
+- Inheritance
+- Encapsulation
+- Polymorphism
+
+**Status:** Documentation available. Code examples coming soon.
+
+---
+
+## Practical 7: Exception Handling and Modules
+
+**Location:** `Practical_7/`
+
+This practical covers error handling and modules.
+
+### Topics:
+- Try-except blocks
+- Handling multiple exceptions
+- Finally clause
+- Raising exceptions
+- Creating custom exceptions
+- Importing modules
+- Creating custom modules
+
+**Status:** Documentation available. Code examples coming soon.
+
+---
+
+## Practical 8: Advanced Python Concepts
+
+**Location:** `Practical_8/`
+
+This practical covers advanced Python programming.
+
+### Topics:
+- Advanced list comprehensions
+- Generator expressions
+- Decorators
+- Lambda functions
+- Map, filter, and reduce
+- Regular expressions
+- Working with JSON
+
+**Status:** Documentation available. Code examples coming soon.
+
+---
+
 ## How to Run
 
 ### Running Individual Files
@@ -242,15 +321,20 @@ python3 --version
 2. Move to **Practical 2** to learn about lists
 3. Progress to **Practical 3** for dictionaries
 4. Complete **Practical 4** to understand functions
+5. Continue with **Practicals 5-8** for advanced topics
 
 ### Key Concepts by Practical:
 
-| Practical | Key Concepts |
-|-----------|-------------|
-| Practical 1 | Variables, Data Types, Operators, Type Conversion |
-| Practical 2 | Lists, List Methods, Nested Lists, List Comprehension |
-| Practical 3 | Dictionaries, Nested Dictionaries, Dictionary Methods |
-| Practical 4 | Functions, Parameters, Return Values, Program Organization |
+| Practical | Key Concepts | Status |
+|-----------|-------------|--------|
+| Practical 1 | Variables, Data Types, Operators, Type Conversion | ✅ Complete |
+| Practical 2 | Lists, List Methods, Nested Lists, List Comprehension | ✅ Complete |
+| Practical 3 | Dictionaries, Nested Dictionaries, Dictionary Methods | ✅ Complete |
+| Practical 4 | Functions, Parameters, Return Values, Program Organization | ✅ Complete |
+| Practical 5 | File Handling, Reading/Writing Files, CSV | 📝 Coming Soon |
+| Practical 6 | OOP, Classes, Objects, Inheritance | 📝 Coming Soon |
+| Practical 7 | Exception Handling, Modules, Custom Exceptions | 📝 Coming Soon |
+| Practical 8 | Advanced Concepts, Decorators, Generators, Regex | 📝 Coming Soon |
 
 ---
 
